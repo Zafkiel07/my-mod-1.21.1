@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:piston"
+    },
+    "X": {
+      "item": "minecraft:slime_block"
+    },
+    "T": {
+      "item": "minecraft:stone_button"
+    },
+    "Y": {
+      "item": "minecraft:iron_ingot"
+    }
+
+  },
+  "pattern": [
+    "X#T",
+    "Y Y"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mymod:pearl_launcher"
+  }
+}

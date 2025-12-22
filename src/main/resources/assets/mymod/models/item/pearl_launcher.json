@@ -1,0 +1,32 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "mymod:item/pearl_launcher"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "mymod:pearls": 0.25
+      },
+      "model": "mymod:item/pearl_launcher_1"
+    },
+    {
+      "predicate": {
+        "mymod:pearls": 0.5
+      },
+      "model": "mymod:item/pearl_launcher_2"
+    },
+    {
+      "predicate": {
+        "mymod:pearls": 0.75
+      },
+      "model": "mymod:item/pearl_launcher_3"
+    },
+    {
+      "predicate": {
+        "mymod:pearls": 1.0
+      },
+      "model": "mymod:item/pearl_launcher_4"
+    }
+  ]
+}
