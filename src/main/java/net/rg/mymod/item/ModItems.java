@@ -12,7 +12,7 @@ import net.rg.mymod.item.custom.PearlLauncherItem;
 
 public class ModItems {
 
-    public static final Item PEARL_LAUNCHER = registerItem("pearl_launcher", new PearlLauncherItem(new Item.Settings().maxDamage(32)));
+    public static final Item PEARL_LAUNCHER = registerItem("pearl_launcher", new PearlLauncherItem(new Item.Settings().maxDamage(260)));
 
 
     private static Item registerItem(String name, Item item) {
