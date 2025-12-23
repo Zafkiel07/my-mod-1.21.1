@@ -1,5 +1,5 @@
 {
-  "parent": "item/generated",
+  "parent": "mymod:item/pearl_launcher",
   "textures": {
     "layer0": "mymod:item/pearl_launcher_4"
   }

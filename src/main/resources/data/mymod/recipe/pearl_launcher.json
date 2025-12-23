@@ -17,8 +17,9 @@
 
   },
   "pattern": [
+    "Y  ",
     "X#T",
-    "Y Y"
+    "Y  "
   ],
   "result": {
     "count": 1,
